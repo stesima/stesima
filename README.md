@@ -24,7 +24,7 @@
 
 ## 📌 Projects & Research
 - **Marketing Mix Modeling 2.0** → weekly data (2023–2024), media effectiveness on sales & KPIs  
-- **Family Office vs PE M&A** → ownership similarity, post-deal performance, econometric modeling  
+- **Family Office vs Private Equity M&A** → ownership similarity, post-deal performance, econometric modeling  
 - **Statistical Process Monitoring for 3D Printed Parts** → Python project applying image processing, dimensionality reduction, and SPC methods to detect defects in additive manufacturing  
 - **Housing Market Analysis in Madrid** → R-based data science project combining EDA, regression, and decision trees to uncover housing price drivers and build predictive models
 
@@ -47,4 +47,4 @@
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/stesima)  
-- 📧 stefano.sima@outlook.it  
+- 📧 stefano.sima@mail.polimi.it  
