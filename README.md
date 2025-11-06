@@ -41,7 +41,7 @@
 ---
 
 ## 🌐 Languages
-- Italian (Native), English (C1), Spanish (B2), French (A1)  
+- Italian (Native), English (C1),  Albanian (B2), Spanish (B2), French (A1)  
 
 ---
 
