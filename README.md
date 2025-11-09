@@ -10,7 +10,7 @@
 - **JAKALA (Business Analyst Intern, Global Development)**: supported **international integration projects** across acquired companies and coordinated **cross-functional teams** to align strategy and processes. Contributed to **market and location analyses** for global clients to inform **growth and go-to-market strategies**.
 - **Family Office Observatory (Thesis Student)**: quantitative analysis of **Family Offices vs Private Equity** in Italy.  
   Built a dataset of 300+ deals, classified investors, and applied **econometric models** (logit, robust regression, Heckman).  
-- **Dentsu (Student Analyst)**: assessed the impact of 13 media channels on sales & brand KPIs.  
+- **Dentsu (Data Analyst Student)**: assessed the impact of 13 media channels on sales & brand KPIs.  
   Proposed **budget reallocation** strategies, shifting spend from low-ROI TV to higher-ROI channels (Video, Display, Radio).  
 - **Start Cup – BatteryCare Solutions (Business Analyst)**: developed a **circular-economy business model** for EV battery lifecycle management, aligned with EU sustainability regulations.  
 
