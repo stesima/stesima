@@ -48,4 +48,4 @@
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/stesima)  
-- 📧 stefano.sima@mail.polimi.it  
+- 📧 stefano.sima@outlook.it  
